@@ -108,6 +108,10 @@ spark-submit --packages com.datastax.spark:spark-cassandra-connector_2.12:3.4.1,
 --conf spark.cassandra.connection.config.cloud.path=secure-connect-cryptocurrency.zip load.py
 ```
 
+![image](https://github.com/user-attachments/assets/d499b51f-2e4a-4cbf-9603-718bcf395047)
+
+
+
 
 
 
