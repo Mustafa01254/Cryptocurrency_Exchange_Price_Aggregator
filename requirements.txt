@@ -1,0 +1,5 @@
+pyspark==3.5.0
+kafka-python
+websocket-client
+python-dotenv
+cassandra-driver
