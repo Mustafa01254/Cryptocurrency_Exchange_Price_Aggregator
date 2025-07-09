@@ -36,7 +36,7 @@ python3 -m venv venv
 ```
 4. Install Python dependencies
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Environment Configuration
